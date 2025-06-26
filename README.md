@@ -9,4 +9,4 @@ pip3 install -r requirements.txt
 python3 app.py get_tpl --customer=John Smith --дата_заказа=27.05.2025
 
 # Тесты
-pytest test_app.py
+pytest test_requests.py
